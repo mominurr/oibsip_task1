@@ -71,7 +71,7 @@ To use this project, follow these steps:
 2. Clone the project repository to your local machine:
 
      ```bash
-     git clone https://github.com/mominurr/Iris-Flower-Classification-Predictor.git
+     git clone https://github.com/mominurr/oibsip_task1.git
      cd oibsip_task1
      python iris-flower-classifications-predictor.py
 
