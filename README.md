@@ -43,13 +43,6 @@ The function performs the following steps in its workflow:
 
 * Evaluate the performance of the trained model using accuracy.
 
-## Video Presentation
-
-To see a demonstration of our Iris Flower Classification Predictor project in action, please watch the following video:
-
-[Demo Video](https://youtu.be/J0X7zjQr20c)
-
-In this video, we provide a step-by-step walkthrough of how to use our project's features, objectives, and results. Feel free to watch the video to get a better understanding of our project.
 
 ## Dataset
 
